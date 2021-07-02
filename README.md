@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salmane CHAFIK
-- 👀 I’m interested in Software developement
-- 🌱 I’m currently learning computer science
+- 👀 I’m a an advanced software engeenering student for digital services.
+- 🌱 I’m interested in machine learning, web developement and game developement.
 - 📫 you can reach me by mail: salmanchafik@gmail.com
 
 <!---
