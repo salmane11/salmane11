@@ -2,7 +2,7 @@
 - 👀 I’m a an advanced software engeenering student for digital services.
 - 🌱 I’m interested in web developement, especially modern web development (Reactjs, SpringBoot, Nodejs, Mongodb)
 - 🌱 But most of my projects are in React and SpringBoot
-- 👀 I'm a fan of artificial intelligence (ML) and game developement.
+- 👀 I'm also a fan of artificial intelligence (ML) and game developement.
 - 📫 you can reach me by mail: salmanchafik@gmail.com
 
 <!---
