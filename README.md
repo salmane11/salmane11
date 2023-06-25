@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @salmane CHAFIK
-- 👀 I’m a an advanced software engeenering student for digital services.
-- 🌱 I’m interested in web developement, especially modern web development (Reactjs, SpringBoot, Nodejs, Mongodb)
-- 🌱 But most of my projects are in React and SpringBoot
-- 👀 I'm also a fan of artificial intelligence (ML) and game developement.
+- 👀 I’m an advanced software engineering student for digital services.
+- 🌱 I’m interested in web development, especially modern web development (Reactjs, SpringBoot, Nodejs, Mongodb)
+- 🌱 But most of my projects are in React and JAVA(SpringBoot)
+- 👀 I also enjoy artificial intelligence (ML) and game development.
 - 📫 you can reach me by mail: salmanchafik@gmail.com
 
 <!---
